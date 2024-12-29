@@ -1,0 +1,5 @@
+Flask==2.0.1
+Flask-CORS==3.0.10
+scapy==2.4.5
+scikit-learn==0.24.2
+numpy==1.21.0
